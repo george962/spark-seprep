@@ -4,7 +4,7 @@
 
 Here is my Chatbot Screenshot
 
-![George's Screenshot](./screenshots/george-screenshot.png)
+![George's Screenshot](./images/george-screenshot.png)
 
 #### What went well
 
